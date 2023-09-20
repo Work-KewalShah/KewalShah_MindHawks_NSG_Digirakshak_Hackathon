@@ -46,13 +46,11 @@ The requisite system should have the following features:-
 - Gimbal: 3-Axis Brushless Gimbal(RTF)
 - Video Transmitter: TS835 FPV 5.8G 600MW 48CH
 - Video Receiver: 5.8G UVC OTG Android
-<!-- 
+
 <p align="center">
-  <img src = "https://i.imgur.com/Eaoo0F9.png" width=500><br>
-  Welcome page with instructions
-  <br>
+  <img src = "https://i.imgur.com/LM3uVxT.jpg" width=500><br>
+  Final UAV model named प्रतिष्क:
 </p>
--->
 
 ## Phases of the Hackathon
 
