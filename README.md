@@ -28,6 +28,12 @@ The requisite system should have the following features:-
 - **Framework/Model:** YOLOv5 (Windows 10), SSD MobileNet(Raspberry Pi 4b)
 - **Detection Classes:** Orange_Gun, Black_Gun, COCO Dataset Classes
 
+<p align="center">
+  <img src = "https://i.imgur.com/gae9kUs.png" width=500>
+     <img src = "https://i.imgur.com/aG9vIuT.png" width=500><br>
+  Choose from various detection categories
+</p>
+
 ### प्रतिष्क: (UAV Prototype) Specs:
 - Chassis: Tarot T810
 - Flight Controller: Pixhawk Orange Cube
