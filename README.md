@@ -15,6 +15,14 @@ The requisite system should have the following features:-
 - It should have low aural signature so as to be able to operate undetected by the hijacker
 - It should have the battery backup with a minimum of 60 minutes or longer endurance
 
+## Table of Contents
+
+- [My Role as Team Leader](#my-role-as-team-leader)
+- [Technical Details](#technical-details)
+- [Phases of the Hackathon](#phases-of-the-hackathon)
+- [Acknowledgements](#acknowledgements)
+- [Contact Me](#contact-me)
+
 ## My Role as Team Leader
 
 - **Team name** - MindHawks
@@ -101,6 +109,11 @@ We were awarded 2nd place in the competition during the final felicitation cerem
 ## Acknowledgements
 
 - Special thanks to Team MindHawks for their dedicated efforts and contributions.
+- Team Members:
+  - Siddhi Marvaniya  ([siddhimarvaniya@gmail.com](mailto:siddhimarvaniya@gmail.com))
+  - Niraj Lalwani  ([niraj311202@gmail.com](mailto:niraj311202@gmail.com))
+  - Anuj Shukla  ([anujmshukla2002@gmail.com](mailto:anujmshukla2002@gmail.com))
+  - Smit Vidja  ([smitvidja2604@gmail.com](mailto:smitvidja2604@gmail.com))
 
 ## Contact Me
 
