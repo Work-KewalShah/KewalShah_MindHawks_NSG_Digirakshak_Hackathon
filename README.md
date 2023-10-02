@@ -115,6 +115,8 @@ We were awarded 2nd place in the competition during the final felicitation cerem
   - Anuj Shukla  ([anujmshukla2002@gmail.com](mailto:anujmshukla2002@gmail.com))
   - Smit Vidja  ([smitvidja2604@gmail.com](mailto:smitvidja2604@gmail.com))
 
+For inquiries, collaborations, or to learn more about our projects, please don't hesitate to contact us. We look forward to connecting with you!
+
 ## Contact Me
 
 I'd love to hear from you and answer any questions you may have about the applications or any other projects. Feel free to reach out to me:
